@@ -11,3 +11,5 @@ Key integrations for developers: Source Control, Continuous Integration, Issue t
 
 
 So now lets see if a commit reflects in Flow
+
+This is what it looks like to add from the command line
